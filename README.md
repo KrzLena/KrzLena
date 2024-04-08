@@ -1,10 +1,2 @@
-HI!
-<table>
-  <tr><td>I'm learning:</td></tr>
-  <tr><td>JavaScript</td></tr>
-  <tr><td>C++</td></tr>
-</table>
-<table>
-  <tr><td>I know how to program in:</td></tr>
-  <tr><td>Html & CSS</td></tr>
-</table>
+Hello!
+I know how to create websites and im still learning how to program in different languages like C++ or py :D
